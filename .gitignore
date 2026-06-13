@@ -14,6 +14,7 @@ venv/
 
 # Large data and training artifacts are stored outside Git.
 Databases/
-NBGL_Blind_Mixed_Noise/
+NBGL_Blind_Mixed_Noise/*
+!NBGL_Blind_Mixed_Noise/README.md
 *.pth
 *.nii

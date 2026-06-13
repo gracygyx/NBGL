@@ -1,0 +1,8 @@
+matplotlib
+nibabel
+numpy
+pandas
+tqdm
+torch
+torchmetrics
+openpyxl

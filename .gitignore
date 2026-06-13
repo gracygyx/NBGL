@@ -1,0 +1,19 @@
+.agents/
+.codex/
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Large data and training artifacts are stored outside Git.
+Databases/
+NBGL_Blind_Mixed_Noise/
+*.pth
+*.nii

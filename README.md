@@ -7,7 +7,8 @@ Noise-Aware Boundary-Enhanced Generative Learning for 3D ultrasound speckle redu
 - `NBGL.py`: training, validation, and test pipeline.
 - `requirements.txt`: Python dependencies.
 
-Large datasets, NIfTI volumes, checkpoints, and generated training artifacts are intentionally excluded from Git.
+Large source datasets and NIfTI volumes are intentionally excluded from Git.
+Checkpoints and generated result summaries are stored under `NBGL_Blind_Mixed_Noise/`.
 
 ## Data
 
